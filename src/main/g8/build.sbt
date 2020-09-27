@@ -2,7 +2,7 @@ name := "$name$"
 
 version := "0.1-SNAPSHOT"
 
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.3"
 
 
 lazy val akkaVersion = "$akka_version$"
